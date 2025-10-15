@@ -19,16 +19,6 @@ The dashboard provides:
 
 ---
 
-## 🧠 Key Insights
-
-- Orders are **highest on weekends (Friday/Saturday evenings)**  
-- **Classic Category** contributes maximum to sales  
-- **Large size pizzas** contribute the most to revenue  
-- **The Pepperoni Pizza** is the top-selling item  
-- **The Brie Carre Pizza** is the least popular item
-
----
-
 ## 🛠️ Tools Used
 
 - **Microsoft Excel**
